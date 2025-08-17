@@ -1,4 +1,4 @@
-package com.woffyapi.spring_boot;
+package com.woffyapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
